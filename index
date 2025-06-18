@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Welcome!</title>
+
+  </head>
+  <h1>Drew's Website</h1>
+
+  <body>
+    <h2>About me</h2>
+    <p>I'm Drew Smith, and I am a student of Computer Science at Colorado College. I wanted to learn how the internet works better, so I created this website in my free time. I hope you like it!
+    <h2>About this website</h2>
+    <p>Welcome to my website! Here you can find: <br>
+    - Some of my photography <br>
+    - Coding projects I have worked on <br>
+    - Games I've made <br>
+    - Some ramblings <br>
+    - The "Skylander of the Day" (who I currently have sitting on the portal at home) <br>
+    </p>
+    <p>Please sign my logbook down below and feel free to look around!</p>
+    <a href="https://steamcommunity.com/id/hellomolten/">My Steam Page</a> <br>
+    <a href="https://www.youtube.com/@moltenlavacore">My YouTube Channel</a>
+    <br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Laser_Towards_Milky_Ways_Centre.jpg" alt="Cool Photo of a Laser" width=200 height=200>
+  </body>
+</html>
