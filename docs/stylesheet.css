@@ -1,0 +1,12 @@
+body {
+  backgroundcolor: green;
+}
+h1 {
+  text-align: center;
+  font: impact;
+  color: lightgreen;
+}
+p {
+  color: darkgreen;
+  font-family: fantasy;
+}
