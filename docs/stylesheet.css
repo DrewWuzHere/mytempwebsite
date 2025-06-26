@@ -1,12 +1,22 @@
 body {
-  backgroundcolor: green;
+  background-color:#ffeb90;
+  /*background-color:#91b7c7;*/
 }
 h1 {
   text-align: center;
   font: impact;
-  color: lightgreen;
+  color: #343f3e;
+}
+h1 span {
+  background-color: #bbbe64;
+}
+h2 {
+  test-align: center;
+  font: arial;
+  color:#984447;
 }
 p {
-  color: darkgreen;
+  background-color: #bbbe64;
+  color: #343f3e;
   font-family: fantasy;
 }
