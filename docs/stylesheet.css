@@ -1,6 +1,7 @@
 body {
   background-color:#ffeb90;
   background-image:url("./photos/032.JPG");
+  background-size: 300;
   /*background-color:#91b7c7;*/
 }
 h1 {
